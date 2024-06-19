@@ -31,7 +31,7 @@ ls
 ```
 pip3 install -r requirements.txt
 ```
-If needed install pytest seperately
+If needed install pytest separately
 ```
 pip3 install pytest pytest-pylint pytest-cov
 ```
